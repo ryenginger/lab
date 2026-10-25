@@ -10,7 +10,6 @@ export * as Lab_warehouseitemsModel from './models/Lab_warehouseitemsModel';
 export * as Lab_warehouselocationsModel from './models/Lab_warehouselocationsModel';
 export * as Lab_warehousetransactionsModel from './models/Lab_warehousetransactionsModel';
 export * as OpenFoodFactsModel from './models/OpenFoodFactsModel';
-
 // Services
 export * from './services/Lab_productsService';
 export * from './services/Lab_warehouseitemsService';
