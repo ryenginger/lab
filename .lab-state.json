@@ -17,5 +17,6 @@
   "testProfile": "test",
   "packageDeployerScaffolded": true,
   "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "columnsScaffolded": true,
+  "appId": "3c4343b2-c3b7-49a0-91e1-0463c83b81ac"
 }
